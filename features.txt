@@ -1,0 +1,4 @@
+search=off
+buy=off
+review=on
+receive=on
